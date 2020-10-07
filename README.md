@@ -115,3 +115,7 @@ I went throung several websites to get the idea of 'How to read data from Goofle
 # License
 
 This package is distributed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Download
+
+[https://pypi.org/project/gspread10/0.0.1/](https://pypi.org/project/gspread10/0.0.1/)
