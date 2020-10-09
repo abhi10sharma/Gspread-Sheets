@@ -29,7 +29,7 @@ Before installing this package there is one important thing which you have to do
 7. Give any specfic name of your [JSON](https://www.json.org/json-en.html) file
 8. Then Search [Google Sheets API](https://developers.google.com/sheets/api) and then click on enable.
 9. Open your [JSON](https://www.json.org/json-en.html) file and copy the client_email.
-10. Open your [GOOgLE SPREADSHEETS](https://www.google.com/sheets/about/) and click on share button on the right top.
+10. Open your [GOOGLE SPREADSHEETS](https://www.google.com/sheets/about/) and click on share button on the right top.
 11. Paste your client_email and then click on send button.
 
 
