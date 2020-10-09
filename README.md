@@ -33,7 +33,7 @@ Before installing this package there is one important thing which you have to do
 11. Paste your client_email and then click on send button.
 
 
-# Code Discription
+# Code Description
 
 ## Library Used
 
