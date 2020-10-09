@@ -77,7 +77,7 @@ For example:- I want to read the data from [Greendeck](https://www.greendeck.co/
 getjsonGspreadData("your_JSON_Path", "Greendeck Assignment")
 ```
 
-# Code for Reading the file from [GOODLE SPREADSHEETS](https://www.google.com/sheets/about/)
+# Code for Reading the file from [GOOGLE SPREADSHEETS](https://www.google.com/sheets/about/)
 
 ```Python
 # Google Sheets Features.
@@ -86,7 +86,7 @@ getjsonGspreadData("your_JSON_Path", "Greendeck Assignment")
 # Sharing and access control.
 # Batching updates.
 
-# oauth2client library will help us to get the client credientials a to read the data of specific Spread Sheet.
+# oauth2client library will help us to get the client credentials a to read the data of specific Spread Sheet.
 
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
