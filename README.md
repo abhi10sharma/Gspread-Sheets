@@ -20,7 +20,7 @@ Before installing this package there is one important thing which you have to do
 
 ## Steps to enable [Google Drive API](https://www.google.com/intl/en_in/drive/)
 
-1. Go to the Google APIs Console.
+1. Go to the [Google APIs Console](https://console.developers.google.com/).
 2. Create a new project.
 3. Click Enable API. Search for and enable the Google Drive API.
 4. Create credentials for a Web Server to access Application Data.
