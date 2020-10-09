@@ -112,7 +112,7 @@ def getjsonGspreadData(json_file, gspread_file):
 
 ```
 
-I went throung several websites to get the idea of 'How to read data from Goofle Spread Sheet'. So finally I got this website --> [mediam.com](https://medium.com/analytics-vidhya/how-to-read-and-write-data-to-google-spreadsheet-using-python-ebf54d51a72c). You can go through this website.
+I went throung several websites to get the idea of 'How to read data from Goofle Spread Sheet'. So finally I got this website --> [medium.com](https://medium.com/analytics-vidhya/how-to-read-and-write-data-to-google-spreadsheet-using-python-ebf54d51a72c). You can go through this website.
 
 # License
 
