@@ -43,6 +43,7 @@ I have used the [gspread](https://pypi.org/project/gspread/) and [oauth2client](
 
 ```python
 pip install gspread oauth2client
+pip install pandas
 ```
 
 ### Features of **`gspread`** library
