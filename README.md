@@ -27,9 +27,11 @@ Before installing this package there is one important thing which you have to do
 5. Name the service account and grant it a Project Role of Editor.
 6. Download the [JSON](https://www.json.org/json-en.html) file.
 7. Give any specfic name of your [JSON](https://www.json.org/json-en.html) file
-8. Open your [JSON](https://www.json.org/json-en.html) file and copy the e-mail.
-9. Open your [GOODLE SPREADSHEETS](https://www.google.com/sheets/about/) and click on share open on the right top.
-10. Paste your [e-mail](https://en.wikipedia.org/wiki/Email) and then click on send button.
+8. Then Search [Google Sheets API](https://developers.google.com/sheets/api) and then click on enable.
+9. Open your [JSON](https://www.json.org/json-en.html) file and copy the client_email.
+10. Open your [GOODLE SPREADSHEETS](https://www.google.com/sheets/about/) and click on share button on the right top.
+11. Paste your client_email and then click on send button.
+
 
 # Code Discription
 
