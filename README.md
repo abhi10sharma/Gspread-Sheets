@@ -121,4 +121,4 @@ This package is distributed under the [MIT license](https://opensource.org/licen
 
 # Download
 
-[https://pypi.org/project/gspread10/0.0.2/](https://pypi.org/project/gspread10/0.0.2/)
+[https://pypi.org/project/gspread10/](https://pypi.org/project/gspread10/)
